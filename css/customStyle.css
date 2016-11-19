@@ -1,0 +1,17 @@
+.single_feature_right_add{
+    width:340px;
+    height:300px;
+}
+.fix.feature_right_add.floatright {
+    /* margin-right: 1px; */
+    width: 341px;
+}
+.blog_feature{
+    width:73%;
+}
+form#uploadVideo1 {
+    border: 1px solid rgba(128, 128, 128, 0.49);
+    padding: 10px;
+    width: 124%;
+    border-radius: 18px;
+}
